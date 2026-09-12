@@ -1,0 +1,5 @@
+// Archivo de construccion de nivel raiz.
+// Aqui solo se declaran los plugins que usaran los modulos del proyecto.
+plugins {
+    id "com.android.application" version "8.7.3" apply false
+}
